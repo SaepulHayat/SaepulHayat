@@ -6,7 +6,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,21,26&height=200&section=header&text=Backend%20Architect&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Building%20Scalable%20Systems%20with%20Python&descAlignY=48&descAlign=50&descSize=18" />
   
   <!-- Advanced Typing Animation with Python Focus -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=FFE873&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%90%8D+Python+Backend+Engineer;%E2%9A%A1+Django+%7C+FastAPI+%7C+Flask;%F0%9F%8E%AF+Full-Stack+with+Backend+Focus;%F0%9F%9A%80+API+%26+Database+Specialist" alt="Advanced Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=FFE873&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%90%8D+Python+Backend+Engineer;%E2%9A%A1+Django+%7C+FastAPI+%7C+Flask;%F0%9F%8E%AF+Full-Stack+Web+Developer;%F0%9F%9A%80+API+%26+Database+Specialist" alt="Advanced Typing SVG" />
   
   <!-- Custom Animated Badges -->
   <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">

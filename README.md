@@ -75,8 +75,7 @@ print(f"Mission: {developer.get_philosophy()}")
 
 <div align="center">
   
-  <!-- Python-focused Tech Stack Icons -->
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mongodb,redis,docker,git,pytest,linux,aws&theme=dark&perline=6" />
+ 
   
 </div>
 
